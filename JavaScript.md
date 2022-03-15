@@ -12,23 +12,23 @@ For this challenge, I was expected to write a program based off of the FizzBuzz 
 * be able understand how to use a plain text editor  
 
 The code is shown below:
->function fizzbuzz() {
-	>var display = document.getElementById('display');
-	>var displayHTML = "";
-	>for (i = 1; i < 101; i++) {
-		>if (i % 15 === 0) {
-			>document.write("FizzBuzz" + "<br>");
-		>} else if (i % 3 === 0) {
-			>document.write("Fizz" + "<br>");
-		>} else if (i % 5 === 0) {
-			>document.write("Buzz" + "<br>");
-		>} else {
-			>document.write(i + "<br>");
-		>}
-		>displayHTML += "<p>" + i + "</p>";
-	>}
-	>display.innerHTML = displayHTML
->}
+>function fizzbuzz() {  
+>	var display = document.getElementById('display');  
+>	var displayHTML = "";  
+>	for (i = 1; i < 101; i++) {  
+>		if (i % 15 === 0) {  
+>			document.write("FizzBuzz" + "<br>");  
+>		} else if (i % 3 === 0) {  
+>			document.write("Fizz" + "<br>");  
+>		} else if (i % 5 === 0) {  
+>			document.write("Buzz" + "<br>");  
+>		} else {  
+>			document.write(i + "<br>");  
+>		}  
+>		displayHTML += "<p>" + i + "</p>";  
+>	}  
+>	display.innerHTML = displayHTML  
+>}  
 
 The expected output looks like this:
 ![FizzBuzz Challenge](FizzBuzzOutput.png)

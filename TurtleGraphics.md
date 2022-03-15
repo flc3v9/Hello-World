@@ -19,18 +19,18 @@ The code I used is shown below:
 >#main red flower  
 >flower.pencolor("#DC1C13")  
 >for i in range(25):  
-    >flower.forward(i * 15)  
-    >flower.right(130)  
+>   flower.forward(i * 15)  
+>   flower.right(130)  
 >#medium pink flower  
 >flower.pencolor("#F07470")  
 >for i in range(20):  
-    >flower.backward(i * 15)  
-    >flower.left(130)  
+>   flower.backward(i * 15)  
+>   flower.left(130)  
 >#smaller pink flower  
 >flower.pencolor("#F6BDC0")  
 >for i in range(15):  
-    >flower.forward(i*15)  
-    >flower.right(130)  
+>   flower.forward(i*15)  
+>   flower.right(130)  
 >turtle.speed(ANIMATION_SPEED)  
 >turtle.done()  
 

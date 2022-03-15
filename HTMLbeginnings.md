@@ -12,12 +12,12 @@ This section of the course was meant to introduce us to concept of SVGs and the 
 * can be used for various designs  
 
 Some example code is shown here:
-><svg width="800" height="400">
-	><rect x="300" y="10" rx="15" ry=:15" width="400" height="300" style="fill:yellow;stroke:lightblue;stroke-width:10;fill-opacity:0.5;strokeopacity:0.5" />
-></svg>
+><svg width="800" height="400">  
+	><rect x="300" y="10" rx="15" ry=:15" width="400" height="300" style="fill:yellow;stroke:lightblue;stroke-width:10;fill-opacity:0.5;strokeopacity:0.5" />  
+></svg>  
 
-><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 194.83 146.39"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;stroke-width:7px;}</style></defs><polygon class="cls-1" points="52.1 103.19 6.8 103.19 75.97 6.38 162.21 142.89 36.04 142.89 122.96 6.38 188.25 103.19 52.1 103.19"/></svg>
-></svg>
+><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 194.83 146.39"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;stroke-width:7px;}</style></defs><polygon class="cls-1" points="52.1 103.19 6.8 103.19 75.97 6.38 162.21 142.89 36.04 142.89 122.96 6.38 188.25 103.19 52.1 103.19"/></svg>  
+></svg>  
 
 The output of this code looks like this in a web browser:
 ![SVG Screenshot](svgscreenshot.png)  
