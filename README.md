@@ -2,7 +2,7 @@
 [Python Beginnings](pythonbeginnings.md) | [HTML Beginnings](HTMLbeginnings.md) | [JavaScript Beginnings](JavaScript.md) | [Turtle Graphics](TurtleGraphics.md)
 ## Introduction to Faith Carter
 
-### This is Faith Carter:
+#### This is Faith Carter:
 ![Faith Carter](FaithImage.HEIC)
 
 Faith Carter is:  
@@ -18,8 +18,8 @@ Faith is currently using [GitHub](https://en.wikipedia.org/wiki/GitHub) to host 
 
 Here is some example code done for _IT 1000_ written in Python:
 
->print("Hello, my name is Faith Carter.")
->print("I am in this class because I am majoring in information technology.")
->print("I am a sophomore.")
->print("I am a transfer student.")
+>print("Hello, my name is Faith Carter.")  
+>print("I am in this class because I am majoring in information technology.")  
+>print("I am a sophomore.")  
+>print("I am a transfer student.")  
 

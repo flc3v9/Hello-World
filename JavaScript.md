@@ -1,5 +1,5 @@
 # JavaScript Beginnings
-Return to [Home Page](README.md)
+Return to [Home Page](README.md)  
 Other pages: [Python](pythonbeginnings.md) | [Turtle Graphics](TurtleGraphics.md) | [HTML](HTMLbeginnings.md)
 
 For this assignment of _IT 1000_, we were expected to learn **JavaScript** and brush up on **HTML**. If you want to read more about my HTML beginnings, check [here](HTMLbeginnings.md). [JavaScript](https://en.wikipedia.org/wiki/JavaScript) is a languages that is often used in conjunction to HTML and CSS for webpages.
@@ -12,7 +12,6 @@ For this challenge, I was expected to write a program based off of the FizzBuzz 
 * be able understand how to use a plain text editor  
 
 The code is shown below:
-><script>
 >function fizzbuzz() {
 	>var display = document.getElementById('display');
 	>var displayHTML = "";
@@ -30,7 +29,6 @@ The code is shown below:
 	>}
 	>display.innerHTML = displayHTML
 >}
-></script>
 
 The expected output looks like this:
 ![FizzBuzz Challenge](FizzBuzzOutput.png)
