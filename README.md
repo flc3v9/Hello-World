@@ -1,9 +1,10 @@
-# Hello-World
+# Intro to Faith Carter
+To see the other pages on this website, check here:  
 [Python Beginnings](pythonbeginnings.md) | [HTML Beginnings](HTMLbeginnings.md) | [JavaScript Beginnings](JavaScript.md) | [Turtle Graphics](TurtleGraphics.md)
 ## Introduction to Faith Carter
 
 #### This is Faith Carter:
-![Faith Carter](FaithImage.HEIC)
+![Faith Carter](FaithImage.jpeg)
 
 Faith Carter is:  
 * a student at the University of Missouri  
@@ -13,7 +14,7 @@ Faith Carter is:
 
 This is the welcome page for her midterm project for _IT 1000_.
 
-For information about other things about her, check these sites:
+For information about other things about her, check these sites:  
 Faith is currently using [GitHub](https://en.wikipedia.org/wiki/GitHub) to host this personal website.
 
 Here is some example code done for _IT 1000_ written in Python:
