@@ -17,15 +17,15 @@ The code is shown below:
 >	var displayHTML = "";  
 >	for (i = 1; i < 101; i++) {  
 >		if (i % 15 === 0) {  
->			document.write("FizzBuzz" + "<br>");  
+>			document.write("FizzBuzz" + "br");  
 >		} else if (i % 3 === 0) {  
->			document.write("Fizz" + "<br>");  
+>			document.write("Fizz" + "br");  
 >		} else if (i % 5 === 0) {  
->			document.write("Buzz" + "<br>");  
+>			document.write("Buzz" + "br");  
 >		} else {  
->			document.write(i + "<br>");  
+>			document.write(i + "br");  
 >		}  
->		displayHTML += "<p>" + i + "</p>";  
+>		displayHTML += "p" + i + "/p";  
 >	}  
 >	display.innerHTML = displayHTML  
 >}  
