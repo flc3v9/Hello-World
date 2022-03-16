@@ -1,14 +1,15 @@
 # About Me: Faith Carter
 To see the other pages on this website, check here:  
 [My Intro to Python](pythonbeginnings.md) | [My Intro to HTML](HTMLbeginnings.md) | [My Intro to Turtle Graphics](TurtleGraphics.md) | [My Intro to JavaScript](JavaScript.md)  
-## Introduction to Faith Carter
+### Introduction to Faith Carter  
+Hi, my name is Faith Carter. I am the creator of this website.  
 
 #### Here is a picture of me:  
 ![Faith Carter](FaithImage.jpeg)
 
 I am:  
-* a student at the University of Missouri  
-* a sophomore  
+* a student at the **University of Missouri**  
+* a **sophomore**  
 * am majoring in **Information Technology**   
 
 Here is a picutre of my university:  

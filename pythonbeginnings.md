@@ -50,5 +50,4 @@ The code I wrote is shown below:
 
 The output of the code would result in this:
 ![cone image](Cone_image.png)  
-
 This sums up my introduction to Python experience. Thank you for reading!
