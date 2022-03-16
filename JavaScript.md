@@ -30,12 +30,15 @@ The code is shown below:
 
 >>>} else {  
 >>>>document.write(i + "br");  
+
 >>>}  
 
 >>>displayHTML += "p" + i + "/p";  
+
 >>}  
 
 >>display.innerHTML = displayHTML  
+
 >}  
 
 The expected output looks like this:
