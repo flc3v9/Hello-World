@@ -14,6 +14,7 @@ For this challenge, I was expected to write a program based off of the **FizzBuz
 * be able understand how to use a plain text editor  
 
 The code is shown below:  
+```
 >function fizzbuzz() {  
 >>var display = document.getElementById('display');  
 >>var displayHTML = "";  
@@ -40,6 +41,7 @@ The code is shown below:
 >>display.innerHTML = displayHTML  
 
 >}  
+```
 
 The expected output looks like this:
 ![FizzBuzz Challenge](FizzBuzzOutput.png)  
