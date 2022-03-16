@@ -4,6 +4,8 @@ Other pages: [Python](pythonbeginnings.md) | [Turtle Graphics](TurtleGraphics.md
 
 A few weeks into the _INFOTEC 1000_ course, we also learned how to code a bit of [HyperText Markup Language (HTML)](https://en.wikipedia.org/wiki/HTML) in order to imbed a [Scalable Vector Graphics (SVG)](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics). HTML is a markup language that is used to be displayed on the web. We learned parts of HTML because a SVG must be embedded into the HTML to work.
 
+The HTML logo is shown below:  
+
 ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg)
 
 This section of the course was meant to introduce us to concept of SVGs and the interworkings of webpages. SVGs are commonly used because they are:  

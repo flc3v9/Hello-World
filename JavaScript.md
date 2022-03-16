@@ -1,8 +1,10 @@
 # JavaScript Beginnings
 Return to [Home Page](README.md)  
-Other pages: [Python](pythonbeginnings.md) | [HTML](HTMLbeginnings.md)| [Turtle Graphics](TurtleGraphics.md)
+Other pages: [Python](pythonbeginnings.md) | [HTML](HTMLbeginnings.md) | [Turtle Graphics](TurtleGraphics.md)
 
 For this assignment of _INFOTEC 1000_, we were expected to learn **JavaScript** and brush up on **HTML**. If you want to read more about my intro to HTML, check [here](HTMLbeginnings.md). [JavaScript](https://en.wikipedia.org/wiki/JavaScript) is a languages that is often used in conjunction to HTML and CSS for webpage design.
+
+The JavaScript logo is shown below:  
 
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 
@@ -32,5 +34,6 @@ The code is shown below:
 
 The expected output looks like this:
 ![FizzBuzz Challenge](FizzBuzzOutput.png)
+_(Note: the rest of the numbers are cut off due to the size of the file in the browser.)_  
 
 This concludes my introduction to Javascript. Thank you for reading!
