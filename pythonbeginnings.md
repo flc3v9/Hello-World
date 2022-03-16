@@ -15,49 +15,45 @@ Back to what I was saying, this code is supposed to calculate the volume of a co
 * How to get user input  
 
 The code I wrote is shown below:
+```
+import math
 
->import math
+def main():
+    # radius input
+    while True:
+        try:
+            radius = float(input("Please type in the radius of a cone: "))
+        except ValueError:
+            print("Please enter only a numerical value for the radius.")
+            continue
+        if (radius <= 0):
+            print("Please enter a positive value for the radius.")
+            continue
+        else:
+            break
 
->def main():  
->>while True:  
->>>try:  
->>>>radius = float(input("Please type in the radius of a cone: "))  
+    print("\n")
+    # height input
+    while True:
+        try:
+            height = float(input("Please type in the height of a cone: "))
+        except ValueError:
+            print("Please enter only a numerical value for the height.")
+            continue
+        if (height <= 0):
+            print("Please enter a positive value for the height.")
+            continue
+        else:
+            break
 
->>>except ValueError:  
->>>>print("Please enter only a numerical value for the radius.")  
->>>>continue  
+    print("\n")
+    # main calculation
+    volume = math.pi * (radius**2) * (height/3)
+    print("The volume of this cone is: ", end="")
+    print(volume)
 
->>>if (radius <= 0):  
->>>>print("Please enter a positive value for the radius.")  
->>>>continue  
-
->>>else:  
->>>>break  
-
->>print("\n")  
-
->>while True:  
->>>try:  
->>>>height = float(input("Please type in the height of a cone: "))  
-
->>>except ValueError:  
->>>>print("Please enter only a numerical value for the height.")  
->>>>continue  
-
->>>if (height <= 0):  
->>>>print("Please enter a positive value for the height.")  
->>>>continue  
-
->>>else:  
->>>>break  
-
->>print("\n")  
-
->>volume = math.pi * (radius**2) * (height/3)  
->>print("The volume of this cone is: ", end="")  
->>print(volume)  
-
->main()   
+main()
+```
 
 The output of the code would result in this:
 ![cone image](Cone_image.png)  

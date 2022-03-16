@@ -22,10 +22,12 @@ I am currently using [GitHub](https://en.wikipedia.org/wiki/GitHub) to host this
 One of the first programs I ever wrote was a program called _AboutMe.py_ which was a simple code meant to introduce us to the Python syntax.  
 
 The intro code is as shown below:  
->print("Hello, my name is Faith Carter.")  
->print("I am in this class because I am majoring in information technology.")  
->print("I am a sophomore.")  
->print("I am a transfer student.")  
+```
+print("Hello, my name is Faith Carter.")  
+print("I am in this class because I am majoring in information technology.")  
+print("I am a sophomore.")  
+print("I am a transfer student.")  
+```
 
 If you would like to learn more about me, feel free to click these links:  
 * [My Intro to Python](pythonbeginnings.md)  

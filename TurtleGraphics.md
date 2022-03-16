@@ -13,30 +13,38 @@ For this challenge, Turtle graphics were used in order to teach us:
 * understand the usage of Turtle graphics
 
 The code I used is shown below:  
-> import turtle  
->flower = turtle.Turtle()  
->ANIMATION_SPEED = 10  
+```
+import turtle
 
->#main red flower  
->flower.pencolor("#DC1C13")  
->for i in range(25):  
->>   flower.forward(i * 15)  
->>   flower.right(130)  
+flower = turtle.Turtle()
 
->#medium pink flower  
->flower.pencolor("#F07470")  
->for i in range(20):  
->>   flower.backward(i * 15)  
->>   flower.left(130)  
+ANIMATION_SPEED = 10
 
->#smaller pink flower  
->flower.pencolor("#F6BDC0")  
->for i in range(15):  
->>   flower.forward(i*15)  
->>   flower.right(130)  
+#main red flower
+flower.pencolor("#DC1C13")
 
->turtle.speed(ANIMATION_SPEED)  
->turtle.done()  
+for i in range(25):
+    flower.forward(i * 15)
+    flower.right(130)
+
+#medium pink flower
+flower.pencolor("#F07470")
+
+for i in range(20):
+    flower.backward(i * 15)
+    flower.left(130)
+    
+# smaller pink flower
+flower.pencolor("#F6BDC0")
+
+for i in range(15):
+    flower.forward(i*15)
+    flower.right(130)
+
+turtle.speed(ANIMATION_SPEED)
+
+turtle.done()
+```
 
 The output of this code results in this image:
 ![Turtle graphics my example](TurtleGraphics.png)  
