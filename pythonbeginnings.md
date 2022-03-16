@@ -1,50 +1,54 @@
-# First Projects
+# Intro to Python  
 Return to [Home Page](README.md)  
-Other pages: [JavaScript](JavaScript.md) | [Turtle Graphics](TurtleGraphics.md) | [HTML](HTMLbeginnings.md)
+Other pages: [HTML](HTMLbeginnings.md) | [Turtle Graphics](TurtleGraphics.md) | [JavaScript](JavaScript.md)  
 
-This is a page about one of my first coding projects for _IT 1000_. The one of the first things I coded was a simple program in [Python](https://en.wikipedia.org/wiki/Python_(programming_language) called **Volume of a Cone**. Python is a progamming language that uses indentation for readability. 
+This is a page about one of my first coding projects for _INFOTEC 1000_. One of the first things I ever coded for this course was a simple program in [Python](https://en.wikipedia.org/wiki/Python_(programming_language) called **Volume of a Cone**.  
 
-![Python Logo](https://images.app.goo.gl/VB1nNMFfCk7VD1v67)
+For reference, Python is a progamming language that uses indentation for readability. The logo is seen below:  
 
-This code is supposed to calculate the volume of a cone. This project is supposed to teach us:  
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
+Back to what I was saying, this code is supposed to calculate the volume of a cone. The project is supposed to teach us:  
 * The basics of Python
 * How to use Python to solve math problems
 * How to use _while loops_ in Python  
 * How to get user input  
 
-The code is as shown below:
+The code I wrote is shown below:
 
 >import math
 
 >def main():  
->   while True:  
->       try:  
->           radius = float(input("Please type in the radius of a cone: "))  
->       except ValueError:  
->           print("Please enter only a numerical value for the radius.")  
->           continue  
->       if (radius <= 0):  
->           print("Please enter a positive value for the radius.")  
->           continue  
->       else:  
->           break  
->      print("\n")  
->   while True:  
->       try:  
->           height = float(input("Please type in the height of a cone: "))  
->       except ValueError:  
->           print("Please enter only a numerical value for the height.")  
->           continue  
->       if (height <= 0):  
->           print("Please enter a positive value for the height.")  
->           continue  
->       else:  
->           break  
->     print("\n")  
->   volume = math.pi * (radius**2) * (height/3)  
->   print("The volume of this cone is: ", end="")  
->   print(volume)  
+>>  while True:  
+>>>      try:  
+>>>>          radius = float(input("Please type in the radius of a cone: "))  
+>>>      except ValueError:  
+>>>>           print("Please enter only a numerical value for the radius.")  
+>>>>           continue  
+>>>       if (radius <= 0):  
+>>>>           print("Please enter a positive value for the radius.")  
+>>>>           continue  
+>>>       else:  
+>>>>           break  
+>>      print("\n")  
+>>   while True:  
+>>>       try:  
+>>>>           height = float(input("Please type in the height of a cone: "))  
+>>>       except ValueError:  
+>>>>           print("Please enter only a numerical value for the height.")  
+>>>>           continue  
+>>>       if (height <= 0):  
+>>>>           print("Please enter a positive value for the height.")  
+>>>>           continue  
+>>>       else:  
+>>>>           break  
+>>     print("\n")  
+>>   volume = math.pi * (radius**2) * (height/3)  
+>>   print("The volume of this cone is: ", end="")  
+>>  print(volume)  
 >main()  
 
-The output of this code would result in this:
-![cone image](Cone_image.png)
+The output of the code would result in this:
+![cone image](Cone_image.png)  
+
+This sums up my introduction to Python experience. Thank you for reading!
