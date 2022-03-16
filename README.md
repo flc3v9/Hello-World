@@ -1,16 +1,18 @@
-# Intro to Faith Carter
+# About Me: Faith Carter
 To see the other pages on this website, check here:  
-[Python Beginnings](pythonbeginnings.md) | [HTML Beginnings](HTMLbeginnings.md) | [JavaScript Beginnings](JavaScript.md) | [Turtle Graphics](TurtleGraphics.md)
+[My Intro to Python](pythonbeginnings.md) | [My Intro to HTML](HTMLbeginnings.md) | [My Intro to JavaScript](JavaScript.md) | [My Intro to Turtle Graphics](TurtleGraphics.md)
 ## Introduction to Faith Carter
 
-#### This is Faith Carter:
+#### Here is a picture of me:  
 ![Faith Carter](FaithImage.jpeg)
 
-Faith Carter is:  
+I am:  
 * a student at the University of Missouri  
-    >![Image of University of Missouri's Jesse Hall and columns](https://m.imagekind.com/Jesse-Hall-and-Columns-University-of-Missouri_art?IMID=b72f892d-1e16-4c6f-849a-9c2befedf3ec)
-* is a sophomore  
-* is majoring in **Information Technology**   
+* a sophomore  
+* am majoring in **Information Technology**   
+
+Here is a picutre of my university:
+![Jesse Hall image](https://www.momspumphere.com/places/place/details/2243_jesse-hall-mizzou)
 
 This is the welcome page for her midterm project for _IT 1000_.
 
