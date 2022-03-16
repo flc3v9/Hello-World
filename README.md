@@ -12,7 +12,7 @@ I am:
 * am majoring in **Information Technology**   
 
 Here is a picutre of my university:
-![Jesse Hall image](https://www.momspumphere.com/places/place/details/2243_jesse-hall-mizzou)
+![Jesse Hall image](https://upload.wikimedia.org/wikipedia/commons/4/4d/Jesse_Hall_Aerial.jpg)
 
 This is the welcome page for her midterm project for _IT 1000_.
 
